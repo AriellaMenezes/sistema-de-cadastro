@@ -1,4 +1,4 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("aplicação esta se conectando ao banco de dados")
 
-console.log ("adicionando console.log pata teste")
+console.log ("adicionando console.log para teste")
